@@ -51,6 +51,7 @@
         "fileMetadata": {
             "feedback_system": {
                 "docs-ref-autogen/**/*": "None",
+                "nodejs/overview/msteams-client.md": "None",
                 "resources/status/**/*": "None"
             }
         },
