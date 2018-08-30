@@ -6,13 +6,13 @@ ms.date: 01/02/2018
 ---
 # Prepare your Office 365 tenant
 
-To develop apps for Microsoft Teams, you need to be an [Office 365 customer with one of the following plans](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans).
+To develop apps for Microsoft Teams, you need to be an Office 365 customer with one of these [plans](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans):
 
 * Business Essentials
 * Business Premium
 * Enterprise E1, E3, and E5
 * Developer
-* Education, Education Plus, and Education E5
+* Education A1, A3, and A5
 
 Microsoft Teams will also be available to customers who purchased E4 prior to its retirement.
 
