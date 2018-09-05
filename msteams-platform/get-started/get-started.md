@@ -15,13 +15,23 @@ You can think of Teams as a single page web application. Most of the content you
 ## What is a Teams app?
 
 At its core, your app for Teams is similar to a web service, hosted on third-party web servers and available via the web.
-Because of this, it is easy to publish and update apps, but it adds additional steps when you are starting out developing an app. The biggest issue is where you host your app during development, and how Teams connects with that app. You can host your app:
+Because of this, it is easy to publish and update apps, but it adds additional steps when you are starting out developing an app. The biggest issue is where you host your app during development, and how Teams connects with that app.
+
+## Hosting your app
+
+For development and testing You can host your app:
 
 * On your local development machine
 * Using a free service like glitch
 * Using a public facing web server or Azure service
 
 These options will be discussed in more detail later.
+
+## Getting your app ready for production
+
+Once your app has been tested locally it should be hosted on a persistent, public facing web server or Azure service. At this point you can also submit it to AppSource if you want to make it publicly available.
+
+
 
 Here are some simple steps to create a Node.js Teams app and test it in Teams.
 
