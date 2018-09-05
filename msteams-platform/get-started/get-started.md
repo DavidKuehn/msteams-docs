@@ -6,10 +6,15 @@ ms.date: 02/06/2018
 ---
 # Get started developing apps for Microsoft Teams
 
-Microsoft Teams is a service within Office 365. All users of Teams can install apps from the Store, but you will need to go through special steps to develop and test apps before they are ready to add to the store.
+Microsoft Teams is a service within Office 365. This means that all users of Teams can install apps from AppSource, the Office 365 app store. If you want to add your app to AppSource you will need to go through special steps to develop and test apps before they are ready to add to AppSource.
 
-You can think of Teams as a single page web application. Most of the content you see in Teams actually comes from the Office 365 servers that support your enterprise. This makes it easy for Teams to access other web-based content and display it in the teams app. At their core, apps for Teams are similar to web services, hosted on third-party web servers.
+## What is Teams?
 
+You can think of Teams as a single page web application. Most of the content you see in Teams actually comes from the Office 365 servers that support your enterprise. This makes it easy for Teams to access other web-based content and display it within the teams app, including your app.
+
+## What is a Teams app?
+
+At its core, your app for Teams is similar to a web service, hosted on third-party web servers and available via the web.
 Because of this, it is easy to publish and update apps, but it adds additional steps when you are starting out developing an app. The biggest issue is where you host your app during development, and how Teams connects with that app. You can host your app:
 
 * On your local development machine
